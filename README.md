@@ -1,9 +1,9 @@
-**服务器解锁Netflix检测脚本**
+NETFLIX ACCESS CHECK ON SERVER
 ----------------
 
 脚本来自互联网
 
-**请执行以下一键脚本即可**
+**COPY PASTE THIS COMMAND**
 
     bash <(curl -sSL https://raw.githubusercontent.com/Netflixxp/NF/main/nf.sh)
 
